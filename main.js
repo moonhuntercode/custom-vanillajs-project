@@ -1,6 +1,8 @@
 import "./style.css";
 
-document.querySelector("#mainContainer").innerHTML = `
+document.querySelector("#app-container").innerHTML =
+  /*html*/
+  `
 <!--comments in html-->
 <!--aquí el html que insertas a dentro de #main-->
 
