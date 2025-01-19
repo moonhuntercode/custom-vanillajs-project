@@ -4,6 +4,6 @@ document.querySelector("#app-container").innerHTML =
   /*html*/
   `
 <!--comments in html-->
-<!--aquí el html que insertas a dentro de #main-->
+<!--aquí el html que insertas a dentro de #app-container-->
 
 `;
